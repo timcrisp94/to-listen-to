@@ -4,7 +4,7 @@ import { TodoTask } from './TodoTask'
 export function TodoTaskContainer({todos, deleteTask}) {
   return(
 
-    <div className='class-container'>
+    <div className='record-container'>
       {todos.map((todo, index) => {
         return(
           <TodoTask

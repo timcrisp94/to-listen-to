@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  background-color: #aee4ff;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  font-size: 62.5%;
+}
+
+#todo-task {
+  font-size: 12px;
+}
